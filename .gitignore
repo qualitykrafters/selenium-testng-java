@@ -20,6 +20,7 @@
 *.rar
 .classpath
 .project
+LICENSE
 .idea
 target
 
