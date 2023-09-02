@@ -30,7 +30,7 @@ public class LoginTest extends Base{
 	}
 	
 	@Test
-	public void loginAndAddUser() throws IOException, InterruptedException {
+	public void loginWithValidDetails() throws IOException, InterruptedException {
 
 		loginPage = new LoginPage(driver);
 
