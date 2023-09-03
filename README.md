@@ -56,7 +56,8 @@ The project structure follows these conventions:
 * src/test/java: The directory for your TestNG test classes.
 * target: The default directory for generated build artifacts and test reports.
 
-**Project Execution Video Recording**
+## Project Setup & Execution Recording
+
 https://github.com/qualitykrafters/selenium-testng-java/assets/21121285/b365fdb6-f30e-4c41-aca3-0016060813a6
 
 
