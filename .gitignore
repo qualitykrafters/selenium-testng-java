@@ -23,6 +23,12 @@
 LICENSE
 .idea
 target
+<<<<<<< Updated upstream
+=======
+reports
+screenshots
+src/main/java/resources/chromedriver.exe
+>>>>>>> Stashed changes
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
