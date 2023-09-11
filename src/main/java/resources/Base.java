@@ -44,7 +44,9 @@ public class Base {
 			
 //			WebDriverManager.chromedriver().setup();
 
-			String chromeDriverPath = System.getProperty("user.dir")+"\\drivers\\chromedriver.exe";
+//			System.getProperty("user.dir")+"\\src\\main\\java\\resources\\chromedriver.exe";
+
+			String chromeDriverPath = prop.getProperty("chromeDriverPath");
 			System.setProperty("webdriver.chrome.driver", chromeDriverPath);
 			driver = new ChromeDriver();
 			

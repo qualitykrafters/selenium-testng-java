@@ -25,6 +25,7 @@ LICENSE
 target
 reports
 screenshots
+**/*.exe
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
@@ -69,7 +70,6 @@ replay_pid*
 # .idea/modules.xml
 # .idea/*.iml
 # .idea/modules
-# *.iml
 # *.ipr
 
 # CMake
@@ -174,7 +174,6 @@ replay_pid*
 # .idea/modules.xml
 # .idea/*.iml
 # .idea/modules
-# *.iml
 # *.ipr
 
 # CMake
@@ -253,7 +252,7 @@ fabric.properties
 # .idea/modules.xml
 # .idea/*.iml
 # .idea/modules
-# *.iml
+ *.iml
 # *.ipr
 
 # CMake
